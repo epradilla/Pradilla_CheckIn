@@ -1,0 +1,71 @@
+body {
+    background: url('hbground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 150px;
+    text-align: center;
+    background-color: #dcdbdb;
+}
+
+.wbox {
+    position: relative;
+    top: 100px;
+    left: 50px;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+
+.ybox {
+    position: relative;
+    top: 20px;
+    left: 50px;
+    width: 250px;
+    height: 30px;
+    padding: 20px 20px 40px 20px;
+    border: 1px solid;
+    border-radius:10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    text-align: center;
+}
+
+.bold {
+    position: relative;
+    top: 60px;
+    left:0px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dh {
+    position: relative;
+    top: 50px;
+    left: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;  
+    text-align: center;   
+}
+
+.s {
+    position: relative;
+    padding-right: 20px;
+    top: 40px;
+    left: 0px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #b1b1b1;
+    text-align: center;
+}

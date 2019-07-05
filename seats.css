@@ -1,0 +1,123 @@
+body {
+    background: url('hbground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 150px;
+    text-align: center;
+    background-color: #dcdbdb;
+}
+
+.header {
+    width:500px;
+    height: 50px;
+    display:block;
+    background-color: black;  
+    text-align: left;
+}
+
+#bars {
+    color: white;
+    margin: 10px 10px 0px 10px;
+}
+
+.theader {
+    color: white;
+    position: relative;
+    top: -70px;
+    left: 200px;
+}
+
+#bell {
+    color: white;
+    position: relative;
+    top: -135px;
+    left: 440px;
+    padding: .5px;
+    border: 1px solid;
+    border-radius: 50%;
+
+}
+.bground {
+    width: 500px;
+    height: 170px;
+    margin-top: auto;
+    opacity: .1;
+}
+
+.container .seats {
+    position:relative;
+    top: -150px;
+    left: -130px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.desc {
+    position: relative;
+    top: -270px;
+    left: 60px;
+    font-size: 30px;
+}
+
+.sent {
+    position: relative;
+    top: -290px;
+    left: 52px;
+    font-size: 15px;
+}
+
+.seat {
+    position: relative;
+    top: -220px;
+    left: 10px;
+    width: 300px;
+    height: 250px;
+}
+
+input[type="submit"] {
+    position: relative;
+    top: -200px;
+    left: 10px;
+    width: 430px;
+    height: 44px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.footer {
+    position: relative;
+    top: -170px;
+    width:500px;
+    height: 70px;
+    display:block;
+    background-color: black;
+    text-align: left;
+}
+#cleft {
+    color: white;
+    margin: 0px 10px 0px 120px; 
+}
+
+#circle {
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+
+#square {
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}

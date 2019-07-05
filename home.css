@@ -1,0 +1,180 @@
+body {
+    background: url('hbground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 150px;
+    text-align: center;
+    background-color: #dcdbdb;
+}
+
+.header {
+    width:500px;
+    height: 50px;
+    display:block;
+    background-color: black;  
+    text-align: left;
+}
+
+#bars {
+    color: white;
+    margin: 10px 10px 0px 10px;
+}
+
+#bell {
+    color:white;
+    margin: 10px 10px 0px 390px;
+    padding: .5px;
+    border: 1px solid;
+    border-radius: 50%;
+
+}
+
+.bground {
+    width: 500px;
+    height: 170px;
+    margin-top: auto;
+    opacity: .2;
+}
+
+.container .checkin {
+    position:relative;
+    top: -130px;
+    left: -50px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.container .seats {
+    position:relative;
+    top: -130px;
+    left: 40px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.in {
+    position: relative;
+    top: -150px;
+    left: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.s {
+    position: relative;
+    top: -185px;
+    left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.container .bpass {
+    position: relative;
+    top: -180px;
+    left: -50px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.container .fstatus {
+    position:relative;
+    top: -180px;
+    left: 40px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.bp {
+    position: relative;
+    top: -200px;
+    right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.fs {
+    position: relative;
+    top: -250px;
+    right: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.container .hotels {
+    position: relative;
+    top: -250px;
+    right: 50px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.container .bags {
+    position: relative;
+    top: -250px;
+    right: -40px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.h {
+    position: relative;
+    top: -270px;
+    right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.b {
+    position: relative;
+    top: -300px;
+    right: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.footer {
+    position: relative;
+    top: -270px;
+    width:500px;
+    height: 70px;
+    display:block;
+    background-color: black;
+    text-align: left;
+}
+
+#cleft {
+    color: white;
+    margin: 0px 10px 0px 120px; 
+}
+
+#circle {
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+
+#square {
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+
+
+
+/* ----- */
+

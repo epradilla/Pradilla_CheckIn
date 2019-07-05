@@ -1,0 +1,43 @@
+body {
+    background: url('hbground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 150px;
+    text-align: center;
+    background-color: #dcdbdb;
+}
+
+.wbox {
+    position: relative;
+    top: 100px;
+    left: 50px;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+
+.bold {
+    position: relative;
+    top: 60px;
+    left:0px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.loren {
+    position: relative;
+    top: 60px;
+    left:0px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #b1b1b1;
+}
